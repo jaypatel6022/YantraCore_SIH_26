@@ -50,7 +50,8 @@ The system is a layered design: passive protection around everything, a shared h
 
 **Communication.** An FTO-coated antenna on top of the enclosure talks to a HAPS, which relays traffic between devices that have no direct line of sight.
 
-&#91;embedded content: system architecture · heat network, controller, antenna and HAPS\]
+&#91;embedded content: system architecture · heat network, controller, antenna and HAPS\]<img width="576" height="445" alt="architecure_clean" src="https://github.com/user-attachments/assets/7faed014-07d3-4060-9137-eee9115dbc14" />
+
 
 Heat flows down from the electronics and heater to the battery or the heat sink, while the controller (dashed lines) sets the heater, the heat routing and the charge gate, and sends alerts out through the antenna.
 
