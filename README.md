@@ -52,7 +52,8 @@ Four coordinated subsystems:
 
 Target architecture: sensors feed a radiation-hardened SoC (control unit + RAM), which drives the thermal-management actuators (heater, heat exchanger, exhaust fan) and the system outputs.
 
-![System architecture](Control_Unit_RTL/Logic_%26_Architecture/System_architecture_TOP.png)
+![System architecture](Control_Unit_RTL/Logic_%26_Architecture/System_architecture_TOP.png) <img width="1284" height="982" alt="Architecural_Flow" src="https://github.com/user-attachments/assets/c2c37e5d-9f08-40f9-80d3-a392fd8994d4" />
+
 
 ### Heat flow
 
